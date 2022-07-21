@@ -24,15 +24,15 @@ contact_form_action = "#" # contact form works with https://formspree.io
 search = true
 
 # featured post title
-featured_post_title = "Featured Post"
-recent_post_title = "Recent Post"
+featured_post_title = "Terkini"
+recent_post_title = "Terbaru"
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+#about_widget_content = "Fuzzball merupakan media sepakbola yang membahas terkait dengan sepakbola baik di luar dan di dalam lapangan"
 # footer content
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
+footer_content = "Fuzzball merupakan media sepakbola yang membahas terkait dengan sepakbola baik di luar dan di dalam lapangan"
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed and developed by: hyvaikal"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
@@ -81,10 +81,10 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+###[[social]]
+###title = "facebook"
+###icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+###link = "#"
 
 [[social]]
 title = "twitter"
@@ -94,11 +94,6 @@ link = "#"
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
 [[social]]

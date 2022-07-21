@@ -1,5 +1,5 @@
 ---
-title: "About The Author"
+title: "Tentang Kami"
 description: "this is meta-description"
 image: "images/author.png"
 layout: "about"
@@ -8,20 +8,20 @@ draft: false
 # education
 education:
   enable: true
-  title: "Formal Education"
+  title: "Redaksi"
   education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
+  - name: "Yopi Setia Umbara"
+    content: "gravida nibh velvelit auctor alimo quet menean solli"
+  - name: "Rio Pangestu"
+    content: "gravida nibh velvelit auctor alimo quet menean solli"
+  - name: "Luthfy Falsyah"
+    content: "gravida nibh velvelit auctor alimo quet menean solli"
+  - name: "Fairuz Insani"
+    content: "gravida nibh velvelit auctor alimo quet menean solli"
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Work Experience"
   experience_list:
   - "Best Writer Award"
