@@ -46,13 +46,13 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_large = "Fuzzball"
+title_small = "Indonesia"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
-button_label = "Know About Me"
-button_link = "about/"
+content = "It's Fuzzball Time! Kami membawa semangat sepakbola dan membahas hal terkait sepakbola dalam lingkup dalam dan luar lapangan."
+#button_label = "Know About Me"
+#button_link = "about/"
 
 # Advertise
 [advertisement]
