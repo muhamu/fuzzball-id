@@ -3,7 +3,7 @@ title: "Keadaan Tak Berpihak Pada Pemain Muda"
 description: "meta description"
 image: "https://web.archive.org/web/20201028090528im_/https://balbliter.id/wp-content/uploads/2020/06/20200608_114524.jpg"
 date: 2021-01-24T18:19:25+06:00
-categories: ["analsis"]
+categories: ["analisis"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
