@@ -25,12 +25,12 @@ hasChildren = true
   weight = 2
 
 [[main]]
-name = "About"
+name = "Tentang Kami"
 url = "about/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Kontak Kami"
 url = "contact/"
 weight = 4
 
@@ -43,16 +43,16 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "About"
+name = "Tentang Kami"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Contact"
+name = "Kontak"
 url = "contact/"
 weight = 3
 
 [[footer]]
-name = "Privacy Policy"
+name = "Kebijakan Konten"
 url = "privacy-policy/"
 weight = 4

@@ -3,7 +3,7 @@ title: "Pemuda Harapan Persija Jakarta"
 description: "meta description"
 image: "https://cdn.persija.id/assets/uploads/media-uploader/5D6576FD-301B-48E0-8667-F31F570C8A29.jpeg"
 date: 2021-01-24T18:19:25+06:00
-categories: ["programming"]
+categories: ["analisis"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Menanggulangi Krisis Manajemen Persib"
 description: "meta description"
 image: "https://web.archive.org/web/20210116081630im_/https://balbliter.id/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-13-at-3.20.24-PM.jpeg"
 date: 2021-01-24T18:19:25+06:00
-categories: ["workstation"]
+categories: ["opini"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
