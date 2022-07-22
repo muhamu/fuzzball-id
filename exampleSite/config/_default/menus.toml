@@ -9,20 +9,26 @@ weight = 1
 [[main]]
 name = "Tulisan"
 url = "#"
-weight = 3
+weight = 2
 hasChildren = true
 
   [[main]]
   parent = "Tulisan"
-  name = "Nasional"
-  url = "tags/"
+  name = "Off Field"
+  url = "categories/off-field/"
   weight = 1
 
   [[main]]
   parent = "Tulisan"
-  name = "Internasional"
-  url = "categories/"
+  name = "Taktikal"
+  url = "categories/analisis/"
   weight = 2
+
+  [[main]]
+  parent = "Tulisan"
+  name = "Berdasarkan Kategori"
+  url = "categories/"
+  weight = 3
 
 [[main]]
 name = "Tentang Kami"
@@ -33,7 +39,6 @@ weight = 3
 name = "Kontak Kami"
 url = "contact/"
 weight = 4
-
 
 
 # footer menu
