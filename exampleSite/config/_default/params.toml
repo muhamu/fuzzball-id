@@ -16,8 +16,8 @@ author = "Redaksi"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Bandung, Indonesia"
-mobile = "+211234565523"
-email = "fuzzballid@email.com"
+mobile = "+62 813-2174-1476"
+email = "fuzzballid@outlook.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
@@ -90,14 +90,14 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/fuzzballid"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://instagram.com/fuzzballid"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://linkedin.com/company/fuzzballid/"

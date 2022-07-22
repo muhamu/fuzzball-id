@@ -1,15 +1,17 @@
 ---
 title: "Kebijakan Konten"
-description: "this is meta-description"
+description: "kebijakan tentang konten yang berlaku"
 draft: false
 
 ---
 
 ### Kebijakan Tulisan
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
+Hak cipta dari setiap tulisan yang dimuat Balbliter.id dimiliki oleh masing-masing penulis.
 
 
 #### Isi Konten
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+1. Fuzzball menyajikan tulisan-tulisan sepakbola yang tak sebatas membahas pertandingan. Lebih dari itu, Balbliter.id menyajikan tulisan sepakbola yang memiliki keterkaitan dengan hal di luar sepakbola: sastra, seni, sejarah, ekonomi, sosial, politik, budaya, dll.
+2. Apabila ada pihak yang merasa dirugikan dengan konten yang diproduksi Balbliter.id, bisa mengadukan keberatannya melalui surel balbliterid@gmail.com.
+3. Penyebaran konten Balbliter.id (tulisan, gambar, foto, video) di tempat lain diperkenankan selama mencantumkan nama pembuat karya dan sumber.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+Semoga kehadiran Balbliter.id dapat memberikan kesegaran perspektif bagi para pencinta sepakbola di Tanah Air.

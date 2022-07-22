@@ -1,7 +1,7 @@
 ---
 title: "Tentang Kami"
-description: "this is meta-description"
-image: "images/author.png"
+description: "Fuzzballid dan semua tentang dan terkait kami."
+image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 layout: "about"
 draft: false
 
@@ -11,13 +11,13 @@ education:
   title: "Redaksi"
   education_list:
   - name: "Yopi Setia Umbara"
-    content: "gravida nibh velvelit auctor alimo quet menean solli"
+    content: "Pemimpin Redaksi"
   - name: "Rio Pangestu"
-    content: "gravida nibh velvelit auctor alimo quet menean solli"
+    content: "Editor"
   - name: "Luthfy Falsyah"
-    content: "gravida nibh velvelit auctor alimo quet menean solli"
+    content: "Penulis"
   - name: "Fairuz Insani"
-    content: "gravida nibh velvelit auctor alimo quet menean solli"
+    content: "Penulis"
 
 # experience
 experience:
@@ -37,7 +37,4 @@ experience:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
-
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+Balbliter.id menyajikan beragam kisah inspiratif dari dunia sepakbola. Disajikan dengan tulisan khas dan sudut pandang tanpa batas. Mulai dari fakta dan peristiwa menarik dari sebuah pertandingan, cerita tentang sosok, hingga pelbagai kisah unik di luar lapangan.
