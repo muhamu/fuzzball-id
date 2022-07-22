@@ -1,6 +1,6 @@
 ---
 title: "Hasil Pencarian"
-description: "this is meta description"
+description: "Hasil Pencarian Fuzzballid"
 layout: "search"
 draft: false
 ---
