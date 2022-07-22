@@ -68,7 +68,8 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
+#sidebar = ["about", "categories", "recent-post", "newsletter"]
+sidebar = ["categories", "recent-post"]
 # available widget : about,categories,newsletter,recent-post
 
 
