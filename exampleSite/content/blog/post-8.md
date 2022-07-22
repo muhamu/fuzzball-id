@@ -1,6 +1,6 @@
 ---
 title: "Mereka Yang Melejit di Piala Dunia u-20"
-description: "meta description"
+description: "Talenta - talenta yang akan menghiasi Piala Dunia u-20 di Indonesia"
 image: "https://web.archive.org/web/20200611005509im_/https://balbliter.id/wp-content/uploads/2019/10/u20.jpg"
 date: 2021-01-24T18:19:25+06:00
 categories: ["analisis"]
