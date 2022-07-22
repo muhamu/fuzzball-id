@@ -57,7 +57,7 @@ content = "It's Fuzzball Time! Kami membawa semangat sepakbola dan membahas hal 
 # Advertise
 [advertisement]
 image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+link = "#"
 
 # cookies
 [cookies]
