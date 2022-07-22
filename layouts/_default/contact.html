@@ -16,7 +16,7 @@
           <h3 class="h4 mb-5 text-capitalize">Kirim
             <span class="text-primary"> pesan <i class="fas fa-arrow-right ms-2"></i></span>
           </h3>
-          <form action="{{site.Params.contact_form_action | safeURL}}" method="POST">
+          <form action="{{site.Params.contact_form_action | safeURL}}" method="POST" data-netlify="true">
             <div class="form-group">
               <label for="name" class="form-label">Nama <small>*</small></label>
               <input type="text" class="form-control" name="name" id="name" placeholder="eg: King Emyu" required>
