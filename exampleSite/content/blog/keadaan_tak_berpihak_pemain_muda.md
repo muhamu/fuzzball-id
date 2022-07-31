@@ -7,6 +7,7 @@ categories: ["analisis"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
+*Author: Fairuz Insani
 
 Akademi sepakbola merupakan bagian penting dari pengembangan bakat pemain muda. Di Eropa, hampir setiap klub memilki akademi untuk pengembangan pemain muda di setiap level umur. Setidaknya dari umur enam tahun, anak-anak sudah bisa berlatih di akademi klub masing-masing.
 

@@ -7,6 +7,7 @@ categories: ["prosa"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
+*Author: Mario Lawi
 
 Bagi Walter Lapini, tanggal 28 Mei 2017 adalah hari yang spesial. Profesor Bahasa dan Sastra Yunani di Universitas Genoa itu, dengan menggunakan pseudonim Alvaro Rissa, menciptakan satu ode Latin untuk menyambut hari tersebut.
 

@@ -8,6 +8,7 @@ categories: ["opini"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
+*Author: Rio Rizky Pangestu
 
 Kegiatan tak berfaedah namun sangat saya nikmati ketika di rumah adalah menonton video-video di Youtube secara acak. Suatu hari, saya menyaksikan video tiga orang mengobrol dengan judul yang menjanjikan, “Pidi Baiq Memberi Wejangan”.
 

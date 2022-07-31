@@ -26,7 +26,7 @@ search = true
 # featured post title
 featured_post_title = "Terkini"
 recent_post_title = "Terbaru"
-mainSections = ["blog"]
+mainSections = ["tulisan"]
 # about widget content
 #about_widget_content = "Fuzzball merupakan media sepakbola yang membahas terkait dengan sepakbola baik di luar dan di dalam lapangan"
 # footer content

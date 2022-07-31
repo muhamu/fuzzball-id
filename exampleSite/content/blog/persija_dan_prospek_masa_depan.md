@@ -7,6 +7,7 @@ categories: ["analisis"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
+*Author: Luthfy Falsyah
 
 Persija Jakarta berulang tahun ke-92 pada hari ini, 28 November 2020. Di usia yang sudah relatif tua itu, harapan Persija ada di pundak para pemuda.
 

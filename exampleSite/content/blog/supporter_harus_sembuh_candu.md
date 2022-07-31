@@ -7,6 +7,7 @@ categories: ["opini"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
+*Author: Rizky Putra
 
 Sepakbola bukan saja seakan menjadi agama baru, melainkan candu yang makin hari makin memikat dan membunuh. Seakan-akan hidup terasa hampa tanpa menggumuli olahraga rakyat ini. Dari suporter, pedagang, juru parkir, ormas, dan elemen masyarakat lain menjadi ketergantungan kepadanya.
 
