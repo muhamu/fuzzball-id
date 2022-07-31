@@ -85,5 +85,5 @@ Sulit dibayangkan proses-proses tersebut bisa dilalui dalam waktu kurang dari se
 Refrensi berita:
 “Blitar United Dibeli PT PBB, Berubah Jadi Persib B”
 
--
+
 Author: Rio Rizky Pangestu

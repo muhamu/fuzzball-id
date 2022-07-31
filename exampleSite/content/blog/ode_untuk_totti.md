@@ -48,5 +48,5 @@ Cochlear Dei ditutup dengan beberapa stanza pujian untuk Ilary Blasi, istri Tott
 
  “Totti adalah salah satu kehadiran yang telah menolongku untuk hidup,” kata Lapini dalam salah satu wawancara dengan Democratica tak lama setelah buku puisinya terbit. Bagi seorang romanista seperti Lapini, pengakuan tersebut sangat wajar. Semua romanisti bisa mengungkapkan hal yang sama, tetapi hanya Lapini yang menyampaikan ungkapan terima kasihnya melalui sebuah pujian dalam bahasa Latin, bahasa yang menjadi saksi dan bukti kejayaan Roma di masa silam, untuk mengabadikan Roma masa kini di bawah pemerintahan raja kedelapan bernama Francesco Totti.[]
 
-*
+
 Author: Mario Lawi

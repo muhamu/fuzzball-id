@@ -43,5 +43,5 @@ Dalam praktiknya, ketika berbicara media sosial, setiap platform tentunya memili
 ### Buat Aturan
 Buat aturan apa yang harus dan tidak harus dilakukan oleh Tim Media Sosial, agar tidak terjadi kontroversi dan kesalahan yang merugikan di kemudian hari. Dalam praktiknya sendiri mungkin cukup sulit, namun dapat mengurangi manajemen krisis.[]
 
-*
+
 Author: Muhammad Haikal

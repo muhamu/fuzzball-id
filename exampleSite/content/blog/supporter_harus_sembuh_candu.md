@@ -51,5 +51,5 @@ Namun demikian, masalah ini bukan hanya menjadi tanggung jawab suporter, melaink
 
 Aku mengingat apa yang dikatakan mendiang Ginan Koesmayadi, vokalis band punk Jeruji dan juga pendiri Rumah Cemara, “Cahaya yang paling terang terkadang muncul dari tempat paling gelap”. Dari kegelapan semoga kelak sepakbola Indonesia menemukan cahaya terang meski entah kapan cahaya itu akan datang.[]
 
-*
+
 Author: Rizky Putra

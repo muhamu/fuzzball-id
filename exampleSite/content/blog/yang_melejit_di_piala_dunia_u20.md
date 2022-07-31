@@ -48,5 +48,5 @@ Saya bangga terhadap Beckham, walaupun bukan pemain dunia saya pasti akan memasu
 
 Demikian daftar pemain muda yang penampilannya berpotensi melejit di Piala Dunia U20 nanti. Mari sejenak membayangkan bagaimana para pemain tersebut akan bermain di stadion-stadion Indonesia. Tentu itu akan sangat menarik dan berpotensi mengundang banyak penonton ke stadion. Terlebih, bulan digelarnya Piala Dunia U20, Mei-Juni, adalah bulan liburan pelajar dan musim panas. Menyaksikan Piala Dunia U20 dapat dijadikan opsi berlibur yang menyenangkan.[]
 
-*
+
 Author: Muhammad Haikal

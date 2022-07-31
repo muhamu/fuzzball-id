@@ -53,5 +53,5 @@ Rasanya saya ingin menyodorkan video berjudul “Pidi Baiq Memberi Wejangan” k
 
 Jangan-jangan, memang itu yang paling penting untuk Bale saat ini.[]
 
-*
+
 Author: Rio Rizky Pangestu

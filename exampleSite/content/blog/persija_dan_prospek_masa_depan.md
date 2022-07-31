@@ -53,5 +53,5 @@ Tentunya, seluruh potensi itu mesti diwadahi dengan memberikan para pemain muda 
 
 Memang, Persija masih sering mendapatkan pemain muda dari hasil rekrutmen, bukan pemain binaan asli. Ini wajar mengingat akademi Persija baru dimulai tahun 2019, yang mana menunjukkan keseriusan klub terhadap pengembangan pemain muda untuk investasi masa depan Persija, dan tentunya masa depan sepakbola Indonesia yang lebih baik.[]
 
-*
+
 Author: Luthfy Falsyah

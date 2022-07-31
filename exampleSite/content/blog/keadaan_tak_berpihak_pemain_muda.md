@@ -45,5 +45,5 @@ Minimnya kompetisi tingkatan umur, pembinaan yang kurang baik, nepotisme dan bir
 
 Sudah sewajarnya federasi mulai membenahi segala sistem usang dan bobrok tersebut demi perubahan ke arah yang lebih baik. Tapi, sebagaimana yang sudah kita ketahui bersama, dapatkah kita menitipkan harapan besar itu kepada federasi?[]
 
-*
+
 Author: Fairuz Insani
