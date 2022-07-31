@@ -23,6 +23,9 @@ light = "#f2f2f2"
 # base font size for full website, 
 font_size = "15px" # default is 16px
 
+#twitter-cards
+twitter_cards = "true"
+
 # Font Scale Sizes
 # "minorSecond": 1.067,
 # "majorSecond": 1.125,
@@ -41,6 +44,8 @@ font_primary_type = "sans-serif"                  # [serif/sans-serif]
 font_secondary = "Merriweather Sans:wght@400;700"
 font_secondary_type = "sans-serif"                # [serif/sans-serif]
 font_icon = "Font Awesome 5 Free"
+
+
 
 
 ############################# Plugins ##############################
