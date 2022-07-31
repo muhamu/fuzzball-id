@@ -23,9 +23,6 @@ light = "#f2f2f2"
 # base font size for full website, 
 font_size = "15px" # default is 16px
 
-#twitter-cards
-twitter_cards = "true"
-
 # Font Scale Sizes
 # "minorSecond": 1.067,
 # "majorSecond": 1.125,
