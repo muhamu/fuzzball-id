@@ -2,7 +2,7 @@
 title: "Rek Kieu Wae Kuch?"
 description: "Hasil minor didapat di 2 laga awal musim Persib. Apa yang terjadi, Coach Robert?"
 image: "https://cloud.jpnn.com/photo/bali/news/normal/2022/01/11/pelatih-persib-bandung-robert-rene-albert-foto-persibcoid-ro-ase5.jpg"
-date: 2021-01-24T18:19:25+06:00
+date: 2022-07-31T18:19:25+06:00
 categories: ["off-field", "opini"]
 type: "featured" # available types: [featured/regular]
 draft: false
