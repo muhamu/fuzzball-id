@@ -7,9 +7,6 @@ categories: ["prosa"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Mario Lawi
-
 Bagi Walter Lapini, tanggal 28 Mei 2017 adalah hari yang spesial. Profesor Bahasa dan Sastra Yunani di Universitas Genoa itu, dengan menggunakan pseudonim Alvaro Rissa, menciptakan satu ode Latin untuk menyambut hari tersebut.
 
 Pada hari itu, Francesco Totti memainkan pertandingan terakhir untuk AS Roma, satu-satunya klub yang dibelanya selama 24 tahun kariernya sebagai pesepakbola. Bagi Lapini, Totti merupakan Weltanschauung, filsafat hidup. Ode sepanjang 308 baris yang ia tulis dalam buku dwibahasa Latin-Italia berjudul Il cucchiaio di Dio (Cochlear Dei) menunjukkannya.
@@ -50,3 +47,6 @@ Meski memasukkan juga sejumlah peristiwa penting Totti bersama tim nasional Ital
 Cochlear Dei ditutup dengan beberapa stanza pujian untuk Ilary Blasi, istri Totti. Di salah satu stanza, Lapini menulis bahwa bahkan dewi Venus pun iri terhadap kecantikan agung Ilary: “Hilaris, sublimi cuius unius decori invideret aemula Cypris.”
 
  “Totti adalah salah satu kehadiran yang telah menolongku untuk hidup,” kata Lapini dalam salah satu wawancara dengan Democratica tak lama setelah buku puisinya terbit. Bagi seorang romanista seperti Lapini, pengakuan tersebut sangat wajar. Semua romanisti bisa mengungkapkan hal yang sama, tetapi hanya Lapini yang menyampaikan ungkapan terima kasihnya melalui sebuah pujian dalam bahasa Latin, bahasa yang menjadi saksi dan bukti kejayaan Roma di masa silam, untuk mengabadikan Roma masa kini di bawah pemerintahan raja kedelapan bernama Francesco Totti.[]
+
+*
+Author: Mario Lawi

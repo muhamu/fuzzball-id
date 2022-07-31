@@ -7,9 +7,6 @@ categories: ["off-field", "football-management"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
--
-Author: Rio Rizky Pangestu
-
 Minggu siang (7/7/2019), Bandung diguyur hujan. Saya nyaris membatalkan rencana menyaksikan pertandingan sepakbola bersama seorang kawan di Stadion Siliwangi, Bandung.
 
 “Santai aja dulu, ya. Mudah-mudahan (hujan) reda,” ujar kawan saya melalui pesan Whatsapp.
@@ -87,3 +84,6 @@ Sulit dibayangkan proses-proses tersebut bisa dilalui dalam waktu kurang dari se
 
 Refrensi berita:
 “Blitar United Dibeli PT PBB, Berubah Jadi Persib B”
+
+-
+Author: Rio Rizky Pangestu

@@ -7,9 +7,6 @@ categories: ["opini"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Rizky Putra
-
 Sepakbola bukan saja seakan menjadi agama baru, melainkan candu yang makin hari makin memikat dan membunuh. Seakan-akan hidup terasa hampa tanpa menggumuli olahraga rakyat ini. Dari suporter, pedagang, juru parkir, ormas, dan elemen masyarakat lain menjadi ketergantungan kepadanya.
 
 Kolegaku sering berucap, “Aing mun Persib eleh sok hese sare, rungsing saminggueun, jeung hoream nempo medsos”. Keluhan di bawah alam sadar itu mengindikasikan ia telah kecanduan kepada Persib. Ketika kesebelasan favoritnya gagal meraih kemenangan, ia sakau.
@@ -53,3 +50,6 @@ Suporter tak pernah benar-benar bersatu untuk mau memboikot PSSI dan sepakbola I
 Namun demikian, masalah ini bukan hanya menjadi tanggung jawab suporter, melainkan juga seluruh masyarakat Indonesia. Sulit memisahkan masalah yang ada dalam sepakbola dengan kehidupan masyarakat itu sendiri. Sebagaimana kata Beckenbauer, “Sepakbola adalah cermin sebuah bangsa”.
 
 Aku mengingat apa yang dikatakan mendiang Ginan Koesmayadi, vokalis band punk Jeruji dan juga pendiri Rumah Cemara, “Cahaya yang paling terang terkadang muncul dari tempat paling gelap”. Dari kegelapan semoga kelak sepakbola Indonesia menemukan cahaya terang meski entah kapan cahaya itu akan datang.[]
+
+*
+Author: Rizky Putra

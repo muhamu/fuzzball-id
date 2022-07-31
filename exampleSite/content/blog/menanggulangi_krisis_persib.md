@@ -7,9 +7,6 @@ categories: ["opini"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Muhammad Haikal
-
 Konten yang buruk, cara komunikasi yang payah, dan puncaknya membuat syarat yang harus dipenuhi bobotoh jika ingin laga  uji coba disiarkan: men-subscribe kanal YouTube Persib hingga mencapai 700 ribu subscribers.
 
 Itulah tiga dari sekian banyak hal yang kerap dilakukan Persib Bandung melalui akun media sosialnya dan membuat bobotoh Persib meradang.
@@ -45,3 +42,6 @@ Dalam praktiknya, ketika berbicara media sosial, setiap platform tentunya memili
  
 ### Buat Aturan
 Buat aturan apa yang harus dan tidak harus dilakukan oleh Tim Media Sosial, agar tidak terjadi kontroversi dan kesalahan yang merugikan di kemudian hari. Dalam praktiknya sendiri mungkin cukup sulit, namun dapat mengurangi manajemen krisis.[]
+
+*
+Author: Muhammad Haikal

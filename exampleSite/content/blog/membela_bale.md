@@ -8,9 +8,6 @@ categories: ["opini"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Rio Rizky Pangestu
-
 Kegiatan tak berfaedah namun sangat saya nikmati ketika di rumah adalah menonton video-video di Youtube secara acak. Suatu hari, saya menyaksikan video tiga orang mengobrol dengan judul yang menjanjikan, “Pidi Baiq Memberi Wejangan”.
 
 Ternyata tidak ada wejangan yang jelas dari Pidi Baiq dari video itu. Pidi Baiq mempersetankan segala motivasi dan inspirasi dalam hidup. Meski demikian, saya tetap menikmatinya. Berulang kali saya menonton video itu saat di rumah.
@@ -55,3 +52,6 @@ Barangkali, Bale pulang ke Tottenham, ke rumahnya, hanya untuk bersenang-senang.
 Rasanya saya ingin menyodorkan video berjudul “Pidi Baiq Memberi Wejangan” kepada Bale. Mungkin Bale akan mengangguk ketika Pidi berkata dalam video itu, “Di rumah téh saya mah pengen santai, gak mau dikasih PR kata-kata motivasi. Beban buat saya.”
 
 Jangan-jangan, memang itu yang paling penting untuk Bale saat ini.[]
+
+*
+Author: Rio Rizky Pangestu

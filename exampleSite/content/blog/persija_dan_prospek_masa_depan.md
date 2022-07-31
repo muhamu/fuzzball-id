@@ -7,9 +7,6 @@ categories: ["analisis"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Luthfy Falsyah
-
 Persija Jakarta berulang tahun ke-92 pada hari ini, 28 November 2020. Di usia yang sudah relatif tua itu, harapan Persija ada di pundak para pemuda.
 
 Persija dikenal sebagai tim yang sering mengorbitkan talenta-talenta muda seperti Ramdani Lestaluhu, Abdul Lestaluhu, Rezaldi Hehanusa. Pada dekade lalu, ada nama-nama seperti Atep, Bambang Pamungkas, hingga Ismed Sofyan.
@@ -55,3 +52,6 @@ Nico striker yang lebih suka menyerang dari dalam, memiliki kecepatan, cukup pin
 Tentunya, seluruh potensi itu mesti diwadahi dengan memberikan para pemain muda itu kesempatan bermain.
 
 Memang, Persija masih sering mendapatkan pemain muda dari hasil rekrutmen, bukan pemain binaan asli. Ini wajar mengingat akademi Persija baru dimulai tahun 2019, yang mana menunjukkan keseriusan klub terhadap pengembangan pemain muda untuk investasi masa depan Persija, dan tentunya masa depan sepakbola Indonesia yang lebih baik.[]
+
+*
+Author: Luthfy Falsyah

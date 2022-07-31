@@ -7,9 +7,6 @@ categories: ["analisis"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Muhammad Haikal
-
 Indonesia terpilih sebagai negara tuan rumah Piala Dunia U20 pada tahun 2021. Kepastian itu didapat setelah Presiden FIFA, Gianni Infantino, mengumumkannya di Shanghai, Tiongkok pada Kamis (24/10/2019).
 
 Ini merupakan kado terindah bagi masyarakat Indonesia. Sebuah kebanggaan untuk masyarakat Indonesia bisa menyaksikan Timnas  berlaga di ajang bergengsi, walaupun turnamen kelompok umur. Ini semua buah dari gigihnya Sekjen PSSI, Ratu Tisha Destria, yang serius mengikuti proses pengajuan tuan rumah Piala Dunia U20.
@@ -50,3 +47,6 @@ Greenwood menjadi buah bibir suporter Manchester United di media sosial. Setelah
 Saya bangga terhadap Beckham, walaupun bukan pemain dunia saya pasti akan memasukkannya ke dalam daftar ini tanpa banyak pertimbangan. Selain talenta asli Bandung, kota asal saya, Beckham pun merupakan pemain termuda yang mencetak gol di Piala Indonesia 2019 bersama Persib, dan telah menjadi bagian dari skuat senior Persib di musim 2019. Saya ingin melihat dia sekali seumur hidup melawan nama – nama besar yang sebelumnya saya sebut. Tentunya dengan catatan ia harus terus berlatih dan meningkatkan kematangan bermain.
 
 Demikian daftar pemain muda yang penampilannya berpotensi melejit di Piala Dunia U20 nanti. Mari sejenak membayangkan bagaimana para pemain tersebut akan bermain di stadion-stadion Indonesia. Tentu itu akan sangat menarik dan berpotensi mengundang banyak penonton ke stadion. Terlebih, bulan digelarnya Piala Dunia U20, Mei-Juni, adalah bulan liburan pelajar dan musim panas. Menyaksikan Piala Dunia U20 dapat dijadikan opsi berlibur yang menyenangkan.[]
+
+*
+Author: Muhammad Haikal

@@ -7,9 +7,6 @@ categories: ["analisis"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
-*
-Author: Fairuz Insani
-
 Akademi sepakbola merupakan bagian penting dari pengembangan bakat pemain muda. Di Eropa, hampir setiap klub memilki akademi untuk pengembangan pemain muda di setiap level umur. Setidaknya dari umur enam tahun, anak-anak sudah bisa berlatih di akademi klub masing-masing.
 
 Setelahnya, para pemain yang memiliki talenta menonjol dapat melanjutkan bersama tim utama maupun pergi ke klub baru untuk mendapatkan banyak pengalaman. Hal ini seperti yang dilakukan pemain belakang Real Madird, Sergio Ramos. Mungkin banyak yang mengira bahwa ia adalah lulusan akademi Real Madrid, namun pada kenyataannya bukan. Ia adalah lulusan akademi Sevilla yang direkrut Real Madrid karena saat itu dianggap sebagai pemain muda potensial.
@@ -47,3 +44,6 @@ Selain adanya nepotisme, pergaulan juga menjadi hambatan seseorang untuk melanju
 Minimnya kompetisi tingkatan umur, pembinaan yang kurang baik, nepotisme dan birokrasi yang rumit, merupakan faktor-faktor yang menyebabkan pemain muda di Indonesia sulit berkembang. Padahal, sepakbola adalah olahraga paling digemari di Indonesia.
 
 Sudah sewajarnya federasi mulai membenahi segala sistem usang dan bobrok tersebut demi perubahan ke arah yang lebih baik. Tapi, sebagaimana yang sudah kita ketahui bersama, dapatkah kita menitipkan harapan besar itu kepada federasi?[]
+
+*
+Author: Fairuz Insani
