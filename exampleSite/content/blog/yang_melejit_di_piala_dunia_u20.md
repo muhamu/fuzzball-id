@@ -7,7 +7,8 @@ categories: ["analisis"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
-*Author: Muhammad Haikal
+*
+Author: Muhammad Haikal
 
 Indonesia terpilih sebagai negara tuan rumah Piala Dunia U20 pada tahun 2021. Kepastian itu didapat setelah Presiden FIFA, Gianni Infantino, mengumumkannya di Shanghai, Tiongkok pada Kamis (24/10/2019).
 

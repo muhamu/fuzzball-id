@@ -7,7 +7,8 @@ categories: ["opini"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
-*Author: Muhammad Haikal
+*
+Author: Muhammad Haikal
 
 Konten yang buruk, cara komunikasi yang payah, dan puncaknya membuat syarat yang harus dipenuhi bobotoh jika ingin laga  uji coba disiarkan: men-subscribe kanal YouTube Persib hingga mencapai 700 ribu subscribers.
 
