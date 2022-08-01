@@ -25,7 +25,10 @@ twitter_cards = "true"
 extended = true
 min = "0.87.0"
 
-
+############################# Params ##############################
+[params]
+description = 'Text about my cool site'
+images = ['images/fuzball-logo.png']
 
 ############################# Outputs ##############################
 [outputs]
