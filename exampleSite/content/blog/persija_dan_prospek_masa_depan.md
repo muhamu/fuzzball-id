@@ -2,6 +2,7 @@
 title: "Pemuda Harapan Persija Jakarta"
 description: "Persija memiliki harapan cerah dari punggawa mudanya, serta prospeknya ke depan"
 image: "https://cdn.persija.id/assets/uploads/media-uploader/5D6576FD-301B-48E0-8667-F31F570C8A29.jpeg"
+images: ["https://cdn.persija.id/assets/uploads/media-uploader/5D6576FD-301B-48E0-8667-F31F570C8A29.jpeg"]
 date: 2021-01-24T18:19:25+06:00
 categories: ["analisis"]
 type: "featured" # available types: [featured/regular]

@@ -2,6 +2,7 @@
 title: "Keadaan Tak Berpihak Pada Pemain Muda"
 description: "Pembinaan untuk pemain muda seperti dua sisi mata uang, kadang tak selalu membela mereka"
 image: "https://web.archive.org/web/20201028090528im_/https://balbliter.id/wp-content/uploads/2020/06/20200608_114524.jpg"
+images: ["https://web.archive.org/web/20210116081630im_/https://balbliter.id/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-13-at-3.20.24-PM.jpeg"]
 date: 2021-01-24T18:19:25+06:00
 categories: ["analisis"]
 type: "regular" # available types: [featured/regular]

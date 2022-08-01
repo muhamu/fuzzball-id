@@ -2,6 +2,7 @@
 title: "Mereka yang Kehilangan akibat Akuisisi Blitar United"
 description: "Kehilangan besar didapatkan oleh Kota Blitar, dan hal yang terkait di dalamnya"
 image: "https://web.archive.org/web/20200622171333im_/https://balbliter.id/wp-content/uploads/2019/07/blackarmy.jpg"
+images: ["https://web.archive.org/web/20210302223745im_/https://balbliter.id/wp-content/uploads/2019/10/Webp.net-resizeimage-4.jpg"]
 date: 2021-01-24T18:19:25+06:00
 categories: ["off-field", "football-management"]
 type: "featured" # available types: [featured/regular]

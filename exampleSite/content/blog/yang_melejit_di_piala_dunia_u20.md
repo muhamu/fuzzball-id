@@ -2,6 +2,7 @@
 title: "Mereka Yang Melejit di Piala Dunia u-20"
 description: "Talenta - talenta yang akan menghiasi Piala Dunia u-20 di Indonesia"
 image: "https://web.archive.org/web/20200611005509im_/https://balbliter.id/wp-content/uploads/2019/10/u20.jpg"
+images: ["https://web.archive.org/web/20200611005509im_/https://balbliter.id/wp-content/uploads/2019/10/u20.jpg"]
 date: 2021-01-24T18:19:25+06:00
 categories: ["analisis"]
 type: "regular" # available types: [featured/regular]
@@ -16,10 +17,10 @@ Bagas dan Bagus dan Beckham Putra dapat bermain melawan bintang dunia di depan p
 #### Ansu Fati
 Pemain jebolan akademi La  Masia, Barcelona, ini merupakan bintang yang paling melesat sinarnya pada hari ini. Umurnya akan menginjak 18 tahun pada 2021 nanti. Dia merupakan seorang keturunan Guinea. Tapi, media massa santer memberitakan ia akan menjadi Warga Negara Spanyol karena dianggap akan memiliki prospek yang lebih cerah untuk kariernya di Eropa. Spanyol merupakan negara tempat ia dibesarkan dan menjadi pemain bintang di Barcelona.
 
-#### Ryan Gravenberch
+### Ryan Gravenberch
 Pemain jebolan akademi Ajax Amsterdam, akademi yang melahirkan pemain muda kaliber Frenkie de Jong dan Matthijs de Ligt. Gravenbech akan mencapai usia 19 tahun pada 2021 nanti. Ia telah menjadi bagian dari Ajax menembus semifinal Liga Champions 2019. Berdarah Suriname dan memiliki tinggi yang sangat menjulang, 190 sentimeter. Ia pun sukses mengantarkan Belanda menjuarai Piala Eropa U17.
 
-#### Rodrygo Goes
+### Rodrygo Goes
 Bintang asal Santos yang sekarang bermain untuk Real Madrid ini digadang-gadang sebagai TheNext Neymar. Usianya akan menginjak 20 tahun pada 2021. Gaya permainannya menunjukkan kelasnya sebagai fantasista. Sekarang, ia sudah menjadi andalan Zidane di Champions League pada saat melawan Galatasaray. Ia pun merupakan andalan saya saat bermain Football Manager karena selalu mendulang gol.
 
 ### Pietro Pellegri

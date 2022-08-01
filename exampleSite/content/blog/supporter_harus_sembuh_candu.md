@@ -2,6 +2,7 @@
 title: "Suporter Harus Sembuh dari Kecanduan Sepakbola"
 description: "Menjabarkan sepakbola dan kecanduan darinya, apakah sama dengan kecanduan dari zat adiktif?"
 image: "https://web.archive.org/web/20210302223745im_/https://balbliter.id/wp-content/uploads/2019/10/Webp.net-resizeimage-4.jpg"
+images: ["https://web.archive.org/web/20210302223745im_/https://balbliter.id/wp-content/uploads/2019/10/Webp.net-resizeimage-4.jpg"]
 date: 2021-01-24T18:19:25+06:00
 categories: ["opini"]
 type: "regular" # available types: [featured/regular]
