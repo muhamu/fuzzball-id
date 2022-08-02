@@ -3,7 +3,7 @@ title: "Menanggulangi Krisis Manajemen Persib"
 description: "Persib yang selalu berkubang dalam krisis serta cara menanggulanginya"
 image: "https://web.archive.org/web/20210116081630im_/https://balbliter.id/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-13-at-3.20.24-PM.jpeg"
 images:  ["https://web.archive.org/web/20210116081630im_/https://balbliter.id/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-13-at-3.20.24-PM.jpeg"]
-date: 2021-01-24T18:19:25+06:00
+date: 2019-11-20T18:19:25+06:00
 categories: ["opini"]
 type: "featured" # available types: [featured/regular]
 draft: false

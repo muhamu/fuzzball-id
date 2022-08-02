@@ -3,7 +3,7 @@ title: "Membela Bale"
 description: "Dengan kritik yang banyak diterima Bale, apakah dia perlu dibela?"
 image: "https://pbs.twimg.com/media/FULTEtlWQAACybq?format=jpg"
 images: ["https://pbs.twimg.com/media/FULTEtlWQAACybq?format=jpg"]
-date: 2021-01-24T18:19:25+06:00
+date: 2019-01-10T18:19:25+06:00
 categories: ["opini"]
 type: "regular" # available types: [featured/regular]
 draft: false

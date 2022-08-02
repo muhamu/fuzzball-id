@@ -3,7 +3,7 @@ title: "Ode untuk Francesco Totti"
 description: "Keindahan Totti, dikiaskan dalam sebuah ode"
 image: "https://web.archive.org/web/20210420125027im_/https://balbliter.id/wp-content/uploads/2020/05/04347500-c1b0-473b-bf04-f004b58e4d49.jpeg"
 images: ["https://web.archive.org/web/20210420125027im_/https://balbliter.id/wp-content/uploads/2020/05/04347500-c1b0-473b-bf04-f004b58e4d49.jpeg"]
-date: 2021-01-24T18:19:25+06:00
+date: 2019-11-13T18:19:25+06:00
 categories: ["prosa"]
 type: "featured" # available types: [featured/regular]
 draft: false
