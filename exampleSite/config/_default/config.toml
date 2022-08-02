@@ -28,7 +28,7 @@ min = "0.87.0"
 ############################# Params ##############################
 [params]
 description = 'Text about my cool site'
-images = ['https://web.archive.org/web/20201016124020im_/https://balbliter.id/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-13-at-3.20.24-PM.jpeg']
+images = ['https://i.ibb.co/TqNYt11/thumb.jpg']
 
 ############################# Outputs ##############################
 [outputs]
