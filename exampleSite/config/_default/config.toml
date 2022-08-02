@@ -28,7 +28,7 @@ min = "0.87.0"
 ############################# Params ##############################
 [params]
 description = 'Text about my cool site'
-images = ['images/fuzball-logo.png']
+images = ['https://i.ibb.co/TqNYt11/thumb.jpg']
 
 ############################# Outputs ##############################
 [outputs]
