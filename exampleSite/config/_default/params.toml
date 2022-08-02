@@ -13,7 +13,8 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Fuzzball, membahas sepakbola di luar dan di dalam lapangan"
 author = "Redaksi"
-image = "https://i.ibb.co/TqNYt11/thumb.jpg" # this image will be used as fallback if a page has no image of its own
+#image = "https://i.ibb.co/TqNYt11/thumb.jpg" # this image will be used as fallback if a page has no image of its own
+images = "https://i.ibb.co/TqNYt11/thumb.jpg"
 
 # contact info
 address = "Bandung, Indonesia"
