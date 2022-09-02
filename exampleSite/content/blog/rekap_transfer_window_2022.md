@@ -1,9 +1,9 @@
 ---
 title: "Rekap Jendela Transfer 2022/23"
 description: "Bursa transfer boleh saja berakhir. Meski begitu, di musim ini banyak pembelian mengejutkan dari klub-klub Eropa."
-image: "https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/302431505_132329449516240_2675450732716036360_n.webp?stp=dst-jpg_e35&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=M0aB77uMyCcAX93JXM8&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjkxODQwNzI1MTMwNjE2ODQ1OA%3D%3D.2-ccb7-5&oh=00_AT-K__1UcaW4X90KqSWXPYEysN2yWBCDdAzX38jDXXQVtw&oe=63196F3A&_nc_sid=30a2ef"
-images: ["https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/302431505_132329449516240_2675450732716036360_n.webp?stp=dst-jpg_e35&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=M0aB77uMyCcAX93JXM8&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjkxODQwNzI1MTMwNjE2ODQ1OA%3D%3D.2-ccb7-5&oh=00_AT-K__1UcaW4X90KqSWXPYEysN2yWBCDdAzX38jDXXQVtw&oe=63196F3A&_nc_sid=30a2ef"]
-images: ["https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/302431505_132329449516240_2675450732716036360_n.webp?stp=dst-jpg_e35&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=M0aB77uMyCcAX93JXM8&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjkxODQwNzI1MTMwNjE2ODQ1OA%3D%3D.2-ccb7-5&oh=00_AT-K__1UcaW4X90KqSWXPYEysN2yWBCDdAzX38jDXXQVtw&oe=63196F3A&_nc_sid=30a2ef"]
+image: "https://i.ibb.co/tHjfm0P/cover-link.jpg"
+images: ["https://i.ibb.co/tHjfm0P/cover-link.jpg"]
+images: ["https://i.ibb.co/tHjfm0P/cover-link.jpg"]
 date: 2022-09-31T19:19:25+06:00
 categories: ["liveblog", "rekap"]
 type: "featured" # available types: [featured/regular]
