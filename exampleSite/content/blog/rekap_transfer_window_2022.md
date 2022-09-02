@@ -4,7 +4,7 @@ description: "Bursa transfer boleh saja berakhir. Meski begitu, di musim ini ban
 image: "https://i.ibb.co/tHjfm0P/cover-link.jpg"
 images: ["https://i.ibb.co/tHjfm0P/cover-link.jpg"]
 images: ["https://i.ibb.co/tHjfm0P/cover-link.jpg"]
-date: 2022-09-31T19:19:25+06:00
+date: 2022-09-02T18:19:25+06:00
 categories: ["liveblog", "rekap"]
 type: "featured" # available types: [featured/regular]
 draft: false
