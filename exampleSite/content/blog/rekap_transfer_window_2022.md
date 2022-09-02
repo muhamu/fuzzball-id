@@ -39,4 +39,31 @@ Willian sepertinya ingin menemukan kembali tantangan baru dengan kembali ke Liga
 
 Pep nampaknya membutuhkan pelapis lini belakang setelah kurang puas dengan performa John Stones, ia sekali lagi membajak pemain Dortmund: Manuel Akanji. Pemain jenius jago matematika ini akan mengalami debut musimnya bersama Manchester City di Liga Inggris musim ini. Akanji akan mengarungi tantangan baru setelah malang melintang di Jerman.
 
+Transfer Lainnya:
+
+Antony (Ajax to Manchester United, £82m)
+Wout Faes (Reims to Leicester City, £15m)
+James Garner (Manchester United to Everton, £15m)
+Leander Dendoncker (Wolves to Aston Villa, £13m)
+Sam Edozie (Manchester City to Southampton, £10m)
+Duje Caleta-Car (Marseille to Southampton, £8.6m)
+Juan Larios (Manchester City to Southampton, £6m)
+Willy Boly (Wolves to Nottingham Forest, £4.65m)
+Idrissa Gana Gueye (PSG to Everton, £2m)
+Carlos Vinicius (Benfica to Fulham, undisclosed)
+Willian (to Fulham, free agent)
+Martin Kelly (to West Brom, free agent)
+Martin Dubravka (Newcastle to Manchester United, loan)
+Layvin Kurzawa (PSG to Fulham, loan)
+Jack Stephens (Southampton to Bournemouth, loan)
+Boubacar Traore (Metz to Wolves, loan)
+Ainsley Maitland-Niles (Arsenal to Southampton, loan)
+Arthur Melo (Juventus to Liverpool, loan)
+Jan Bednarek (Southampton to Aston Villa, loan)
+Oliver Abildgaard (Rubin Kazan to Celtic, loan)
+Josh Bowler (Blackpool to Nottingham Forest, undisclosed)
+Josh Bowler (Nottingham Forest to Olympiacos, loan)
+Dan James (Leeds to Fulham, loan)
+Loic Bade (Rennes to Nottingham Forest, loan)
+
 --000--
